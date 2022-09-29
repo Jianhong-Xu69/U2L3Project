@@ -1,7 +1,6 @@
-import java.util.Scanner;
+import java.util.Scanner; // holdover from when I needed it
 public class FrontDoor {
-    public static void main(String[] args) {
-        Letter letter = new Letter();
-        letter.writeLetter("SUS", "NEN");
+    public static void main(String[] args) { // code goes here
+
     }
 }
